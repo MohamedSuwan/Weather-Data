@@ -5,8 +5,10 @@ A web scraping program that collects the historical hourly weather including tem
 ## 2020.text
 The scraped file.
 ## Data Cleansing
-using regular expression to delete redundant data, measuring units and unwanted data.
+Modifying the raw data from 2020.text using regular expression to delete or replace redundant data, measuring units and unwanted data.
 measuring units helped in figuring out column names.
-## weather.csv is the cleaned csv file.
+and lastly convert the data into a comma separated values file for better handling.
+## weather.csv
+The cleaned csv file.
 ## Data Visualization
-using pandas and matplotlib for fast data analysis and plotting the data in various graphical representations in a way that suits the used data.
+Using pandas and matplotlib for fast data analysis and plotting the data in various graphical representations in a way that suits the used data.
