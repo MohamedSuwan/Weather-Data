@@ -5,7 +5,7 @@ A web scraping program that collects the historical hourly weather including tem
 ## 2020.text
 The scraped file.
 ## Data Cleansing
-using regular expressions to delete redundant data, measuring units and unwanted data.
+using regular expression to delete redundant data, measuring units and unwanted data.
 measuring units helped in figuring out column names.
 ## weather.csv is the cleaned csv file.
 ## Data Visualization
