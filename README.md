@@ -11,6 +11,4 @@ and lastly convert the data into a comma separated values file for better handli
 ## weather.csv
 The cleaned csv file.
 ## Data Visualization
-Notice: the file "new vis" is newer
-
 Using pandas and matplotlib for fast data analysis and plotting the data in various graphical representations in a way that suits the used data.
