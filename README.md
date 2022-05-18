@@ -14,3 +14,4 @@ The cleaned csv file.
 Using pandas and matplotlib for fast data analysis and plotting the data in various graphical representations in a way that suits the used data.
 ## Power BI dashboards 
 view the visuals in thr Data Visualization file in an interactive dashboard using power BI
+![dashboard](https://github.com/MohamedSuwan/Weather-Data/blob/main/Power%20Bi%20Android%20View.jpg?raw=true)
