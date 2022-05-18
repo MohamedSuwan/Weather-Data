@@ -12,3 +12,5 @@ and lastly convert the data into a comma separated values file for better handli
 The cleaned csv file.
 ## Data Visualization
 Using pandas and matplotlib for fast data analysis and plotting the data in various graphical representations in a way that suits the used data.
+## Power BI dashboards 
+view the visuals in thr Data Visualization file in an interactive dashboard using power BI
